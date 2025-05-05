@@ -1,0 +1,3 @@
+cat > home_animals.txt
+cat > pack_animals.txt
+...
