@@ -12,7 +12,3 @@
 - Обучение и отображение команд
 - Подсчет количества добавленных животных (через ресурсный `try`)
 - Работа с базой данных MySQL
-# human-friends-registry
-=======
-# human-are-friends-registration
->>>>>>> 2ea71dc0dda60e7ba819a0e8c73ae395784afa03
